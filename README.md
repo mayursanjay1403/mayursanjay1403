@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayursanjay1403
+- 👋 Hi, I’m Mayur Sakhare
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on Competitive Programming
