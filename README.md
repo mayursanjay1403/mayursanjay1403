@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayur Sakhare
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
+- 👀 I’m interested in Data science and Machine Learning
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on Competitive Programming
 - 📫 How to reach me mayursakhare8055@gmail.com
